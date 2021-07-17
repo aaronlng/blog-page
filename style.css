@@ -18,3 +18,20 @@ button {
     background-color: #FFFFFF;
     padding: 8px;
 }
+
+/* Hero Image */
+
+#hero {
+    width: 100%;
+    height: 50vh;
+    background-color: #f3f3f3;
+}
+
+/* Featured Blogs Row */
+
+#featured-blogs {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
